@@ -1,0 +1,156 @@
+MWANGI JOSPHAT KARANJA
+NETWORK ADMINISTRATOR||SOFTWARE DESIGNER||WEB
+DEVELOPER||GRAPHICS DESIGNER||VIDEO GAME DEVELOPER & IT
+SUPPORT
+SPECIALIST
+PROFILE
+Highly experienced and credentialed IT specialist with expertise in system administration,
+network security administration, web development, light-weight system development,
+graphics design and, and software development. Proven track record of successfully
+managing complex IT projects, enhancing system efficiency, and strengthening
+cybersecurity. Skilled in issue solving and providing exceptional technical support.
+Committed to remaining up to date on technical breakthroughs that will generate
+innovation and strategic solutions.
+CONTACTS
+LANGUAGES
+ Swahili – Native
+ English – Native
+EDUCATION BACKGROUND
+2021-2025
+BORABU TECHNICAL TRAINING INSTITUTE
+DIPLOMA IN INFORMATION COMMUNICATION TECHNOLOGY
+GRADE -SECOND CLASS UPPER DIVISION
+2017-2021
+GITHIGA BOYS HIGH SCHOOL
+0714500555
+5
+jkarranja@gmail.com
+www.linkedin.com/CAPTAIN KA RANJA
+KENYA CERTIFICATE OF SECONDARY EDUCATION.
+GRADE ACHIEVED: B-
+2012-2017
+NGEWE PRIMARY SCHOOL
+KENYA CERTIFICATE OF PRIMARY EDUCATION
+MARKS SCORES:351
+EXPERIENCE
+1. THE NATIONAL TREASURY
+STATE DEPARTMENT FOR ECONOMIC PLANNING
+ROLE: ICT OFFICER, ATTACHMENT 1
+23RD DEC 2022 TO DATE 23RD NOV 2022
+TASKS
+ Monitoring and Performance Evaluation of Integrated Financial Management
+Information System (IFMIS)- Actively monitored the performance and functionality
+of the IFMIS to ensure the seamless processing of financial transactions within
+government institutions. Regularly analyzed system logs, identified performance
+bottlenecks, and collaborated with stakeholders to implement necessary
+improvements.
+ Pilot Implementation of a New Management Information System (MIS)- Took
+part in testing and pilot implementation of a new Management Information System
+(MIS) to streamline reporting and enhance decision-making processes across
+government departments. Ensured that pilot projects met performance standards
+and provided detailed feedback for system optimization.
+ User Training and Capacity Building on Financial Management Systems-
+Developed and conducted training sessions for government officials and other users
+on the effective use of the IFMIS and new MIS tools. Produced user manuals, FAQs,
+and troubleshooting guides to ensure proper system adoption and minimize
+operational disruptions.
+ System Upgrade and Patch Management- Coordinated and supported the process
+of upgrading existing application software and operating system on computers by
+applying patches, installing new releases, and ensuring smooth transitions.
+Managed system backups and restoration processes to mitigate risks associated
+with system downtimes.
+ Technical Support and Issue Resolution for Financial Systems- Provided
+technical support to end-users within the government, resolving system-related
+issues, troubleshooting errors, and offering timely solutions. Monitored user
+complaints and worked with the development team to implement system updates
+and fixes based on user feedback.
+ General ICT Support and Data Entry-Provided essential ICT support for day-to-
+day operations, including accurate data entry into financial and administrative
+systems. Ensured that all entered data met accuracy and consistency standards,
+contributing to reliable reporting and informed decision-making.
+ Antivirus Installation and System Security Monitoring-Installed and maintained
+antivirus software across all ICT equipment to ensure that systems remained secure
+from cyber threats. Monitored antivirus logs, ran routine system scans, and worked
+with the cybersecurity team to address potential security vulnerabilities in a timely
+manner.
+ Issuance and Requisition of ICT Equipment- As part of ICT team, we managed
+the requisition and distribution of ICT hardware and software, including computers,
+printers, and networking devices. Ensured that employees had the tools they needed
+to perform their roles effectively, and kept accurate records of equipment issued and
+returned for inventory control.
+ Preparation and Monitoring of Meetings and ICT-Related Activities-Coordinated
+and prepared materials for ICT-related meetings, ensuring that all logistical
+arrangements were made, including video conferencing setups, document
+preparation, and room bookings. Monitored meeting outcomes and action items,
+providing timely follow-ups to ensure the effective implementation of decisions
+made.
+2.MINISTRY OF EAST AFRICAN COMMUNITY (EAC), ASALs AND REGIONAL
+DEVELOPMENT.
+STATE DEPARTMENT FOR EAST AFRICAN COMMUNITY AFFAIRS
+ROLE: ICT OFFICER, ATTACHEMENT 2
+23RD SEPTEMBER – 23RD DECEMBER 2024
+TASKS
+ Network and System Infrastructure Upgrade -Upgraded the organization's LAN
+with the help of Dimension Data from 70mbps to over 110mbps speeds
+infrastructure to improve performance, scalability, and reliability and provided
+support for over 200 employees.
+ Wireless Network Optimization-Improved the performance and coverage of the
+organization's network by adjusting access point (AP) placement, configure
+channels, and optimize power setting using PoE’s
+ East African Community Non-Tariff Barrier Reporting and Monitoring System-
+Participated in a workshop that came with a system which will resolve the issues of
+NTBs in the 8 states in EAC through the 8 states in EAC. The system is called Non-
+Tariff Barriers Reporting and Monitoring System
+ Provided Network and Peripheral support-This Included Router management,
+System Configuration and Maintenance, Software and Hardware Upgrades, Cable
+Management, Documentation Support and Printer Troubleshooting.
+TECHNICAL SKILLS AND ABILITIES
+ Network Administration: Able to handle LAN/WAN, set up switches and routers,
+and maintain network security.
+ Technical Support: Proficient in remotely and on-site troubleshooting hardware,
+software, and network issues. (Using Anydesk and Tiemviewer for remote
+Configurations)
+ Operating Systems: Proficient in the installation, configuration, and upkeep of
+Windows, and Linux.
+ Network Security: Capable of setting up VPNs, managing firewalls, and putting
+security protocols like IDS/IPS into practice.
+ Hardware Setup & Maintenance: Proficiency in setting up, fixing, and looking after
+network, desktop, and laptop computers.
+ Web Development: Node.js, Laravel, PHP, Flask, Django, Python, (Backend); HTML,
+CSS, JavaScript (Front-End)
+ Graphic Design Skills (Adobe Photoshop, Photo Room, LightRoom, Canva).
+AWARDS AND ACHIVEMENTS
+ ISC2 certification in cybersecurity.
+ IBM certification in cloud computing.
+ IBM certification in cybersecurity.
+ ICT Authority certification in Cybersecurity and Emerging Technologies Training.
+ Get Connected Cisco Certificate
+ Participated in Africa connected Summit.
+ Participated in East-Africa Sub-Regional Forum in Artificial Intelligence.
+INTERESTS AND HOBBIES
+ Reading and watching documentaries
+ Learning new Programming language and skills.
+ Entrepreneurship and startup culture.
+ Community service and Volunteering.
+ Tech Blogging and Writing.
+REFEREE
+PAUL KIBIRA.
+DEPUTY DIRECTOR ICT.
+STATE DEPARTMENT OF EAST AFRICAN COMMUNITY.
+0720459291
+kibirarureri@gmail.com
+COLLINS KIPRONO.
+ICT OFFICER.
+KENYA INSTITUTE OF SURVEYING AND MAPPING.
+0708158837
+Collins.kiprono@kism.ac.ke
+JAPHLET ETYANG,
+ICT OFFICER.
+STATE DEPARTMENT FOR PARLIAMENTARY AFFAIRS.
+0712950219
+etyangjaphlet@gmail.com
+MAURICE MASENGE,
+SENIOR ICT OFFICER,
+STATE DEPARTMENT FOR EAST AFRICAN COMMUNITY.
+0721865668
+maurice.masenge@gmail.com
