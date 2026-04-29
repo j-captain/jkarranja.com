@@ -1,6 +1,6 @@
 # 💼 Mwangi Josphat Karanja | React Full Stack Developer
 
-[![Portfolio](https://img.shields.io/badge/🌐-Live_Portfolio-2ecc71?style=for-the-badge&logo=github&logoColor=white)](https://https://github.com/j-captain/jkarranja.com)
+[![Portfolio](https://img.shields.io/badge/🌐-Live_Portfolio-2ecc71?style=for-the-badge&logo=github&logoColor=white)](https://https://github.com/j-captain/jkarranja)
 [![GitHub](https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/j-captain)
 [![WhatsApp](https://img.shields.io/badge/📱-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254714500555)
 
