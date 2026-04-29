@@ -2,7 +2,6 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐-Live_Portfolio-2ecc71?style=for-the-badge&logo=github&logoColor=white)](https://https://github.com/j-captain/jkarranja.com)
 [![GitHub](https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/j-captain)
-[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/captain-ka-ranja)
 [![WhatsApp](https://img.shields.io/badge/📱-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254714500555)
 
 <p align="center">
@@ -19,9 +18,10 @@
 
 I'm a passionate **Full Stack Developer** with expertise in both front-end and back-end technologies. I specialize in creating responsive, accessible, and visually appealing web applications that solve real-world problems.
 
-- 🎓 **Diploma in ICT** - Borabu Technical Training Institute
+- 🎓 **ICT** 
 - 🚀 **Software Engineering Scholar** - Powerlearn Project Africa
 - 💼 **ICT Officer** - The National Treasury & Ministry of EAC Affairs
+- 🛠️ **System Adminstrator** - Githima TV
 - 🏢 **Co-Owner** - Bitrise Solutions
 
 ## 🛠️ Tech Stack
